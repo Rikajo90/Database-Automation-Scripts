@@ -212,3 +212,6 @@ EXEC sp_add_jobserver
 💬 **Questions or improvements?** Open an issue or reach out!
 
 🔒 **Security Note:** Always review and customize scripts before use in production. Remove sensitive information before committing.
+
+---
+*Last updated: December 2025*
